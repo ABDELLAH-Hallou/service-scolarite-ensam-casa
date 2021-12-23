@@ -1,5 +1,6 @@
 # service scolarite de l'ENSAM CASABLANCA en Python et Tkinter
 ![](https://github.com/ABDELLAH-Hallou/service-scolarite-ensam-casa/blob/master/media/scolarite.gif)
+
 Hello people, this is a mini project built by Abdellah Hallou, Walid Damou, and Chaima Izouarhn, in 10 days. this project is a simulation of tuition services that provide online services for students, and as ENSAM CASABLANCA students, we have to create a small demo of the tuition service application of our School. 
 ## Project requirements:
 - You should have the latest version of Python (3.10.1) : https://www.python.org/downloads/
