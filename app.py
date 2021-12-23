@@ -705,7 +705,7 @@ def activate_account():
                 #----------
 
                 sender_email = "service.scolaire.ensam@gmail.com"
-                password = 'IAGI2024' #make sure you put your email password here !!!!
+                password = '-----' #make sure you put your email password here !!!!
                 message = f"Bonjour cher etudiant, \n\nutilisez ce code : \t{passwd} \tpour activer votre compte "
                 server = smtplib.SMTP('smtp.gmail.com', 587)
                 server.starttls()
